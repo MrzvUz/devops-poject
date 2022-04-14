@@ -29,7 +29,7 @@ Do you want to join 300,000+ learners having Amazing Learning Experiences with i
 
 Buckle up and Get ready for this wonderful ride on DevOps, Microservices and the Cloud.
 
-Look No Further!
+Look No Further! 
 
 ## Course Overview
 
